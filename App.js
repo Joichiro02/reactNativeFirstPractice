@@ -40,22 +40,3 @@ const App = () => {
 };
 
 export default App;
-
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        backgroundColor: "#fff",
-        alignItems: "center",
-        justifyContent: "center",
-    },
-    input: {
-        borderColor: "black",
-        borderWidth: 2,
-        color: "black",
-        width: 150,
-        padding: 5,
-        backgroundColor: "cyan",
-        borderRadius: 10,
-        margin: 10,
-    },
-});
